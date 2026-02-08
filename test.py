@@ -1,5 +1,5 @@
-print("hello world")
+printhello world")
 
-print("this is devops session")
+printthis is devops session")
 
-print("this is AWS session")
+printthis is AWS session")
