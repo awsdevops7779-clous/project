@@ -1,9 +1,9 @@
-printhello world")
+print("hello world")
 
-printthis is devops session")
+print("this is devops session")
 
-printthis is AWS session")
+print("this is AWS session")
 
 
-printthis is Azure session")
+print("this is Azure session")
 
