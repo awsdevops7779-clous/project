@@ -1,6 +1,1 @@
-print("hello world")
-print("this is devops session")
-print("this is AWS session")
-print("this is Azure session")
-print("this is Azure K8")
-print("this is Azure Docker")
+print("hello world v1")
